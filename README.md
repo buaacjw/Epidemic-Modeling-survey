@@ -1,1 +1,3 @@
-这里将保存公开、公认数据集，数据统一标准，并附带基础修正工具与embedding工具。
+# Epidemic-Modeling-survey
+
+[Homepage](https://github.com/Bigscity-epidemic/Epidemic-Modeling-survey)|[Paper List](https://github.com/Bigscity-epidemic/Bigscity-epidemic-survey-paperlist)
